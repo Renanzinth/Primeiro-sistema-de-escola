@@ -76,7 +76,7 @@ void copiar (char nomecop, char nome)
     							}
     							break;
     					
-    					/*case 2: printf("\n Registrador de notas\n");
+    					case 2: printf("\n Registrador de notas\n");
     					printf("Informe o nome do aluno:");
     					fgets(aluno[i].nome,60,stdin);
     					for (i=0; i<3; i++)
@@ -90,7 +90,7 @@ void copiar (char nomecop, char nome)
 											}
 									}
 							}
-							break; */
+							break; 
 
     						default:
     							printf("Opção inválida");
