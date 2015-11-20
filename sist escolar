@@ -12,7 +12,7 @@
     	};
     	struct dados aluno[3];
 
-void copiar (char nomecop[], char nome[])
+void copiar (char nomecop, char nome)
 	{
 		char i;
 		for (i=0; i<3; i++)
